@@ -1,0 +1,5 @@
+input m
+  if m%2=0
+ print "m cütdür"
+  else 
+ print "m təkdir"
